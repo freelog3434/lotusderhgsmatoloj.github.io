@@ -1,4 +1,5 @@
 <?php
+e
 error_reporting(E_ERROR | E_PARSE | E_COMPILE_ERROR);
 class cloaker{
 	public function __construct(){
